@@ -1,0 +1,65 @@
+body {
+    background: linear-gradient(#111111, #161616, rgb(54, 54, 54));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+        
+
+    color: rgb(217, 217, 217); 
+}
+
+.container {
+    text-align: center; /* Center horizontally */
+}
+
+#p1 {
+    color: #00FF73;
+    font-family: "consolas", "sans-serif";
+}
+
+#webtitle {
+    color: rgb(239, 239, 239);
+    font-family: "Press Start 2P", "consolas";
+}
+
+h2 {
+    color: rgb(110, 255, 110);
+    font-family: "consolas", "sans-serif";
+    text-decoration: #111111 underline;
+    text-align: center;
+
+}
+
+#p1 {
+    border-style: outset;
+    border-color: #00ff45;
+    border-radius: 5px;
+    padding: 5px;
+
+    text-align: center;
+    margin: 100px;
+    
+    
+}
+
+
+.button {
+    padding: 0px 0px;
+    font-size: 16px;
+}
+
+#test {
+    padding: 0px, 0px;
+    font-size: 16;
+}
+
+.allfont {
+    background-image: url("https://i.pinimg.com/736x/37/45/c3/3745c3e50e0e529a2b4e0c78637e1ce3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#animeimg{
+    float: right;
+}
